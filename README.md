@@ -20,7 +20,7 @@
 ## Quick start
 
 ```bash
-git clone https://github.com/yourhandle/hn-scraper-pro
+git clone https://github.com/wahhabriaz/hn-scraper-pro
 cd hn-scraper-pro
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
